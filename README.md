@@ -1,2 +1,2 @@
-# helloWorldd
-My first hello world projects
+# helloWorld
+My first hello world project
